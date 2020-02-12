@@ -2,4 +2,9 @@
 # FIRST (Nicolas !)
 
 - Second Arnaud
-- Troisième MacDujardin
+
+- Virginie
+- JSP (Loic !)
+- Virgil :)
+- n-ième MacDujardin
+
